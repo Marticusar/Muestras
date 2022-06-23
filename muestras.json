@@ -1,6 +1,6 @@
 [
 { "url":"Muestra001.wav","type":"audio","bank":"tascamMS","n":0},
-{ "url":"Muestra002.wav","type":"audio","bank":"tascamMS1","n":1},
-{ "url":"Muestra003.wav","type":"audio","bank":"tascamMS2","n":2},
-{ "url":"Muestra004.wav","type":"audio","bank":"tascamMS3","n":3}
+{ "url":"Muestra002.wav","type":"audio","bank":"tascamMS1","n":0},
+{ "url":"Muestra003.wav","type":"audio","bank":"tascamMS2","n":0},
+{ "url":"Muestra004.wav","type":"audio","bank":"tascamMS3","n":0}
 ]
