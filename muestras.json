@@ -2,5 +2,17 @@
 { "url":"Muestra004.wav","type":"audio","bank":"tascamMS","n":0},
 { "url":"Muestra002.wav","type":"audio","bank":"tascamMS","n":1},
 { "url":"Muestra003.wav","type":"audio","bank":"tascamMS","n":2},
-{ "url":"Muestra001.wav","type":"audio","bank":"tascamMS","n":3}
+{ "url":"Muestra001.wav","type":"audio","bank":"tascamMS","n":3},
+{ "url":"Muestra005.wav","type":"audio","bank":"tascamMS","n":4},
+{ "url":"Muestra006.wav","type":"audio","bank":"tascamMS","n":5},
+{ "url":"Muestra007.wav","type":"audio","bank":"tascamMS","n":6},
+{ "url":"Muestra008.wav","type":"audio","bank":"tascamMS","n":7},
+{ "url":"Muestra009.wav","type":"audio","bank":"tascamMS","n":8},
+{ "url":"Muestra0010.wav","type":"audio","bank":"tascamMS","n":9},
+{ "url":"Muestra011.wav","type":"audio","bank":"tascamMS","n":10},
+{ "url":"Muestra012.wav","type":"audio","bank":"tascamMS","n":11},
+{ "url":"Muestra013.wav","type":"audio","bank":"tascamMS","n":12},
+{ "url":"Muestra014.wav","type":"audio","bank":"tascamMS","n":13},
+{ "url":"Muestra015.wav","type":"audio","bank":"tascamMS","n":14},
+{ "url":"Muestra016.wav","type":"audio","bank":"tascamMS","n":15}
 ]
